@@ -261,7 +261,10 @@ footer ul {
     align-items: center;
 }
 
-
+button:focus {
+    background: #2c3f57;
+    outline-style: solid;
+}
 
 
 /*media query*/
